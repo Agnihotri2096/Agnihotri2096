@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshat Agnihotri</h1>
 <h3 align="center">A passionate developer and student of AI & Data Science. I'm currently pursuing B.Tech and also enrolled in the BS Data Science program at IIT Madras. I love building clean, responsive web apps, exploring new tech, and solving real-world problems with code.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=agnihotri2096&label=Profile%20views&color=0e75b6&style=flat" alt="agnihotri2096" /> </p>
-
 - 🌱 I’m currently learning **React,Vite,JS,Python**
 
 - 📫 How to reach me **agnihotriakshat6759@gmail.com**
