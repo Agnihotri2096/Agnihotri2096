@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshat Agnihotri</h1>
-<h3 align="center">A passionate developer and student of AI & Data Science. I'm currently pursuing B.Tech and also enrolled in the BS Data Science program at IIT Madras. I love building clean, responsive web apps, exploring new tech, and solving real-world problems with code.</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Passionate+Developer+%7C+B.Tech+Student+%7C+IIT+Madras+BS+Data+Science+%7C+Building+Clean+Web+Apps+%7C+Exploring+AI+%26+Real-World+Tech" />
+</p>
 
 - 🌱 I’m currently learning **React,Vite,JS,Python**
 
