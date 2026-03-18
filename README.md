@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Passionate+Developer+%7C+B.Tech+Student+%7C+IIT+Madras+BS+Data+Science+%7C+Building+Clean+Web+Apps+%7C+Exploring+AI+%26+Real-World+Tech" />
 </p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+%7C+Data+Science+%7C+Web+Dev+%7C+Problem+Solver&center=true&width=900&height=45)
 
 - 🌱 I’m currently learning **React,Vite,JS,Python**
 
