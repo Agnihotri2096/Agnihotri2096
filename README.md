@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshat Agnihotri</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Passionate+Developer+%7C+B.Tech+Student+%7C+IIT+Madras+BS+Data+Science+%7C+Building+Clean+Web+Apps+%7C+Exploring+AI+%26+Real-World+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=6000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Passionate+Developer+%7C+B.Tech+Student+%7C+IIT+Madras+BS+Data+Science+%7C+Building+Clean+Web+Apps+%7C+Exploring+AI+%26+Real-World+Tech" />
 </p>
 
 - 🌱 I’m currently learning **React,Vite,JS,Python**
