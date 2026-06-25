@@ -46,3 +46,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Agnihotri2096/Agnihotri2096/output/github-snake.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/Agnihotri2096/Agnihotri2096/output/github-snake.svg" />
 </picture>
+---
+### Leetcode
+## 🏆 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Agnihotri2096?theme=unicorn&font=Baloo&ext=heatmap" />
+</p>
