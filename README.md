@@ -52,5 +52,5 @@
 ## 🏆 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Agnihotri2096?theme=unicorn&font=Baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Agnihotri2096?theme=nord&font=Baloo&ext=heatmap" />
 </p>
